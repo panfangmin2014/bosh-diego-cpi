@@ -1,0 +1,105 @@
+{
+	"ImportPath": "github.com/cppforlife/bosh-diego-cpi",
+	"GoVersion": "go1.3",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/go-charset/charset",
+			"Comment": "null-32",
+			"Rev": "ebbeafdc430eb6c7e44e9a730a38eaff4c56ba3a"
+		},
+		{
+			"ImportPath": "code.google.com/p/go-charset/data",
+			"Comment": "null-32",
+			"Rev": "ebbeafdc430eb6c7e44e9a730a38eaff4c56ba3a"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry-incubator/delta_force/delta_force",
+			"Rev": "8300c5546d32d8533295f666c1cd0941113fd7bb"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry-incubator/runtime-schema/bbs",
+			"Rev": "ab0a2903cc6204e2df53c7812bbdaa1d0305f1e2"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry-incubator/runtime-schema/models",
+			"Rev": "ab0a2903cc6204e2df53c7812bbdaa1d0305f1e2"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/bosh-agent/errors",
+			"Rev": "e1a21aeb8369c245b6f0a04e3564bbf323caa525"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/bosh-agent/logger",
+			"Rev": "e1a21aeb8369c245b6f0a04e3564bbf323caa525"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/bosh-agent/platform/commands",
+			"Rev": "e1a21aeb8369c245b6f0a04e3564bbf323caa525"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/bosh-agent/system",
+			"Rev": "e1a21aeb8369c245b6f0a04e3564bbf323caa525"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/bosh-agent/uuid",
+			"Rev": "e1a21aeb8369c245b6f0a04e3564bbf323caa525"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/gofileutils/glob",
+			"Rev": "a4a0cae5ff8a342ba01fce700b9e41c6942c0e5e"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/gosigar",
+			"Comment": "scotty_09012012-20-ga4cb008",
+			"Rev": "a4cb00834887e549c46e58cb5d5f4e53bd492f32"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/gunk/timeprovider",
+			"Rev": "2bb7ab04e15bdae68f68e4aa7ef79b43a371e088"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/storeadapter",
+			"Rev": "652efe1a1fcf3fdb5b08d7474594eb250be6009c"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/yagnats",
+			"Rev": "8bf15e48f3abf6db1765ff908ee678a6f347ce0a"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-etcd/etcd",
+			"Comment": "v0.2.0-rc1-120-g23142f6",
+			"Rev": "23142f6773a676cc2cae8dd0cb90b2ea761c853f"
+		},
+		{
+			"ImportPath": "github.com/jeromer/syslogparser",
+			"Rev": "812866d0389ae7e1f5a0110d47dea20224fc776f"
+		},
+		{
+			"ImportPath": "github.com/nu7hatch/gouuid",
+			"Rev": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3"
+		},
+		{
+			"ImportPath": "github.com/onsi/ginkgo",
+			"Rev": "51ddbbc2ace9f9ad4cf06ba63442ea2ef2019837"
+		},
+		{
+			"ImportPath": "github.com/onsi/gomega",
+			"Rev": "d53f20ed6065e75dd459ceb4904b3e0a5cadbf0d"
+		},
+		{
+			"ImportPath": "github.com/pivotal-golang/lager",
+			"Rev": "ada65d2c262ba5474d357bf57bc0f8b8deaa9196"
+		},
+		{
+			"ImportPath": "github.com/pivotal/go-smtpd/smtpd",
+			"Rev": "0af6982457e5e683c4e238a1abf5dcd73b014504"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Rev": "8eaef7fd248359c7b3679096d813ae8091569ac3"
+		}
+	]
+}
